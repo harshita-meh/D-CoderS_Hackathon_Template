@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Pacifico', sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right,#ed6737,#fbff26);
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.container .jumbotron {
+  height :200px;
+  width :75%
+
+}
+.jumbotron {
+  width : 86%;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+
+}
