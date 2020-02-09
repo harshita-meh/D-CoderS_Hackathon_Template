@@ -1,13 +1,11 @@
-## Team Number - Project Name
-
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
+## Team Number 28 Project Name - Teachers's FEEDBACK FORM
+HARSHITA MEHROTRA
+JHANVI MIMANI
 
 ### Project Overview
 ----------------------------------
 
-A brief description of 
-* What problem did the team try to solve
-* What is the proposed solution
+This web page collects the feedback from the students regarding their respective subjects.
 
 ### Solution Description
 ----------------------------------
@@ -25,5 +23,5 @@ An overview of
 
 ### Team Members
 ----------------------------------
-
-List of team member names and email IDs with their contributions
+Harshita Mehrotra- hharshita.mehrotra123@gmail.com
+Jhanvi Mimani- jhanvi13mimani@gmail.com
